@@ -1,0 +1,18 @@
+[1.092s] Invoking command in '/home/m2m/Unitree_GO2_ws/build/go2_nav': PYTHONPATH=/home/m2m/Unitree_GO2_ws/build/go2_nav/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/m2m/Unitree_GO2_ws/install/go2_nav/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/m2m/Unitree_GO2_ws/build/go2_nav/build --no-deps symlink_data
+[1.266s] running develop
+[1.380s] running egg_info
+[1.380s] writing go2_nav.egg-info/PKG-INFO
+[1.380s] writing dependency_links to go2_nav.egg-info/dependency_links.txt
+[1.380s] writing entry points to go2_nav.egg-info/entry_points.txt
+[1.380s] writing requirements to go2_nav.egg-info/requires.txt
+[1.380s] writing top-level names to go2_nav.egg-info/top_level.txt
+[1.381s] reading manifest file 'go2_nav.egg-info/SOURCES.txt'
+[1.382s] writing manifest file 'go2_nav.egg-info/SOURCES.txt'
+[1.383s] running build_ext
+[1.383s] Creating /home/m2m/Unitree_GO2_ws/install/go2_nav/lib/python3.10/site-packages/go2-nav.egg-link (link to .)
+[1.384s] Installing go2_nav_client script to /home/m2m/Unitree_GO2_ws/install/go2_nav/lib/go2_nav
+[1.384s] Installing go2_nav_server script to /home/m2m/Unitree_GO2_ws/install/go2_nav/lib/go2_nav
+[1.384s] 
+[1.384s] Installed /home/m2m/Unitree_GO2_ws/build/go2_nav
+[1.384s] running symlink_data
+[1.423s] Invoked command in '/home/m2m/Unitree_GO2_ws/build/go2_nav' returned '0': PYTHONPATH=/home/m2m/Unitree_GO2_ws/build/go2_nav/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/m2m/Unitree_GO2_ws/install/go2_nav/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/m2m/Unitree_GO2_ws/build/go2_nav/build --no-deps symlink_data

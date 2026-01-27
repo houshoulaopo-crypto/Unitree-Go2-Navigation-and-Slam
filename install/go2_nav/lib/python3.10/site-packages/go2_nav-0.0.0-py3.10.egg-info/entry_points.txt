@@ -1,0 +1,4 @@
+[console_scripts]
+go2_nav_client = go2_nav.go2_nav_client:main
+go2_nav_server = go2_nav.go2_nav_server:main
+

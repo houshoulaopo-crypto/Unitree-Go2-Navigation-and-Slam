@@ -1,0 +1,1 @@
+/home/m2m/Unitree_GO2_ws/build/go2_inter/rosidl_generator_py/go2_inter/action/_nav_s.c

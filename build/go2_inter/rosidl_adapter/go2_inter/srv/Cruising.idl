@@ -1,0 +1,16 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from go2_inter/srv/Cruising.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Point.idl"
+
+module go2_inter {
+  module srv {
+    struct Cruising_Request {
+      int32 flag;
+    };
+    struct Cruising_Response {
+      geometry_msgs::msg::Point point;
+    };
+  };
+};

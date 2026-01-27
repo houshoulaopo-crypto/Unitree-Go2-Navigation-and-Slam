@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/m2m/Unitree_GO2_ws/build/go2_inter/rosidl_generator_py/go2_inter/go2_inter_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" "TARGETS" "go2_inter__rosidl_typesupport_fastrtps_c__pyext" "DESTINATION" "local/lib/python3.10/dist-packages/go2_inter")

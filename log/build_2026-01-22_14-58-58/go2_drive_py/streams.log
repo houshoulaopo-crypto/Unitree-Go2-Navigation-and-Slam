@@ -1,0 +1,17 @@
+[1.089s] Invoking command in '/home/m2m/Unitree_GO2_ws/build/go2_drive_py': PYTHONPATH=/home/m2m/Unitree_GO2_ws/build/go2_drive_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/m2m/Unitree_GO2_ws/install/go2_drive_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/m2m/Unitree_GO2_ws/build/go2_drive_py/build --no-deps symlink_data
+[1.254s] running develop
+[1.360s] running egg_info
+[1.361s] writing go2_drive_py.egg-info/PKG-INFO
+[1.361s] writing dependency_links to go2_drive_py.egg-info/dependency_links.txt
+[1.361s] writing entry points to go2_drive_py.egg-info/entry_points.txt
+[1.361s] writing requirements to go2_drive_py.egg-info/requires.txt
+[1.361s] writing top-level names to go2_drive_py.egg-info/top_level.txt
+[1.362s] reading manifest file 'go2_drive_py.egg-info/SOURCES.txt'
+[1.362s] writing manifest file 'go2_drive_py.egg-info/SOURCES.txt'
+[1.363s] running build_ext
+[1.363s] Creating /home/m2m/Unitree_GO2_ws/install/go2_drive_py/lib/python3.10/site-packages/go2-drive-py.egg-link (link to .)
+[1.364s] Installing driver script to /home/m2m/Unitree_GO2_ws/install/go2_drive_py/lib/go2_drive_py
+[1.364s] 
+[1.364s] Installed /home/m2m/Unitree_GO2_ws/build/go2_drive_py
+[1.364s] running symlink_data
+[1.393s] Invoked command in '/home/m2m/Unitree_GO2_ws/build/go2_drive_py' returned '0': PYTHONPATH=/home/m2m/Unitree_GO2_ws/build/go2_drive_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/m2m/Unitree_GO2_ws/install/go2_drive_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/m2m/Unitree_GO2_ws/build/go2_drive_py/build --no-deps symlink_data

@@ -1,0 +1,95 @@
+[0.188s] Invoking command in '/home/m2m/Unitree_GO2_ws/build/go2_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/m2m/Unitree_GO2_ws/install/go2_twist_bridge:/home/m2m/Unitree_GO2_ws/install/go2_state:/home/m2m/Unitree_GO2_ws/install/go2_nav:/home/m2m/Unitree_GO2_ws/install/go2_cruising:/home/m2m/Unitree_GO2_ws/install/go2_drive_py:/home/m2m/Unitree_GO2_ws/install/go2_ctrl:/home/m2m/NavRL/install/Goal_publisher:/home/m2m/NavRL/ros2/Goal_publisher/install/Goal_publisher:/opt/ros/humble /usr/bin/cmake /home/m2m/Unitree_GO2_ws/src/go2_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/m2m/Unitree_GO2_ws/install/go2_description
+[0.698s] -- The C compiler identification is GNU 11.4.0
+[0.698s] -- The CXX compiler identification is GNU 11.4.0
+[0.698s] -- Detecting C compiler ABI info
+[0.698s] -- Detecting C compiler ABI info - done
+[0.698s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.698s] -- Detecting C compile features
+[0.698s] -- Detecting C compile features - done
+[0.698s] -- Detecting CXX compiler ABI info
+[0.698s] -- Detecting CXX compiler ABI info - done
+[0.698s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.698s] -- Detecting CXX compile features
+[0.699s] -- Detecting CXX compile features - done
+[0.699s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.699s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.699s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.699s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.699s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.699s] -- Added test 'lint_cmake' to check CMake code style
+[0.699s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.699s] -- Added test 'xmllint' to check XML markup files
+[0.699s] -- Configuring done
+[0.699s] -- Generating done
+[0.699s] -- Build files have been written to: /home/m2m/Unitree_GO2_ws/build/go2_description
+[0.868s] Invoked command in '/home/m2m/Unitree_GO2_ws/build/go2_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/m2m/Unitree_GO2_ws/install/go2_twist_bridge:/home/m2m/Unitree_GO2_ws/install/go2_state:/home/m2m/Unitree_GO2_ws/install/go2_nav:/home/m2m/Unitree_GO2_ws/install/go2_cruising:/home/m2m/Unitree_GO2_ws/install/go2_drive_py:/home/m2m/Unitree_GO2_ws/install/go2_ctrl:/home/m2m/NavRL/install/Goal_publisher:/home/m2m/NavRL/ros2/Goal_publisher/install/Goal_publisher:/opt/ros/humble /usr/bin/cmake /home/m2m/Unitree_GO2_ws/src/go2_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/m2m/Unitree_GO2_ws/install/go2_description
+[0.869s] Invoking command in '/home/m2m/Unitree_GO2_ws/build/go2_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/m2m/Unitree_GO2_ws/install/go2_twist_bridge:/home/m2m/Unitree_GO2_ws/install/go2_state:/home/m2m/Unitree_GO2_ws/install/go2_nav:/home/m2m/Unitree_GO2_ws/install/go2_cruising:/home/m2m/Unitree_GO2_ws/install/go2_drive_py:/home/m2m/Unitree_GO2_ws/install/go2_ctrl:/home/m2m/NavRL/install/Goal_publisher:/home/m2m/NavRL/ros2/Goal_publisher/install/Goal_publisher:/opt/ros/humble /usr/bin/cmake --build /home/m2m/Unitree_GO2_ws/build/go2_description -- -j32 -l32
+[0.901s] Invoked command in '/home/m2m/Unitree_GO2_ws/build/go2_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/m2m/Unitree_GO2_ws/install/go2_twist_bridge:/home/m2m/Unitree_GO2_ws/install/go2_state:/home/m2m/Unitree_GO2_ws/install/go2_nav:/home/m2m/Unitree_GO2_ws/install/go2_cruising:/home/m2m/Unitree_GO2_ws/install/go2_drive_py:/home/m2m/Unitree_GO2_ws/install/go2_ctrl:/home/m2m/NavRL/install/Goal_publisher:/home/m2m/NavRL/ros2/Goal_publisher/install/Goal_publisher:/opt/ros/humble /usr/bin/cmake --build /home/m2m/Unitree_GO2_ws/build/go2_description -- -j32 -l32
+[0.908s] Invoking command in '/home/m2m/Unitree_GO2_ws/build/go2_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/m2m/Unitree_GO2_ws/install/go2_twist_bridge:/home/m2m/Unitree_GO2_ws/install/go2_state:/home/m2m/Unitree_GO2_ws/install/go2_nav:/home/m2m/Unitree_GO2_ws/install/go2_cruising:/home/m2m/Unitree_GO2_ws/install/go2_drive_py:/home/m2m/Unitree_GO2_ws/install/go2_ctrl:/home/m2m/NavRL/install/Goal_publisher:/home/m2m/NavRL/ros2/Goal_publisher/install/Goal_publisher:/opt/ros/humble /usr/bin/cmake --install /home/m2m/Unitree_GO2_ws/build/go2_description
+[0.915s] -- Install configuration: ""
+[0.915s] -- Execute custom install script
+[0.916s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/launch/display.launch.py
+[0.923s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/dae/base.dae
+[0.930s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/dae/calf.dae
+[0.936s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/dae/calf_mirror.dae
+[0.943s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/dae/foot.dae
+[0.950s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/dae/hip.dae
+[0.959s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/dae/thigh.dae
+[0.966s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/dae/thigh_mirror.dae
+[0.974s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230904144240.urdf
+[0.981s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230904182446.urdf
+[0.987s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230904193628.urdf
+[0.995s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230904193644.urdf
+[1.003s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230904193653.urdf
+[1.009s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230904193705.urdf
+[1.018s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230904193710.urdf
+[1.026s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230904193711.urdf
+[1.033s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905112047.urdf
+[1.042s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905112143.urdf
+[1.049s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905112217.urdf
+[1.057s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905112735.urdf
+[1.065s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905112749.urdf
+[1.073s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905112752.urdf
+[1.081s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905112944.urdf
+[1.088s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905113000.urdf
+[1.097s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905113059.urdf
+[1.104s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905113633.urdf
+[1.114s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905113754.urdf
+[1.121s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905113755.urdf
+[1.128s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905113839.urdf
+[1.136s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905113840.urdf
+[1.143s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905114759.urdf
+[1.150s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905114819.urdf
+[1.156s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905115021.urdf
+[1.163s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905115022.urdf
+[1.169s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905115040.urdf
+[1.175s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905115215.urdf
+[1.182s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905115226.urdf
+[1.190s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905115300.urdf
+[1.197s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/.history/go2_description_20230905115313.urdf
+[1.204s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/Amended_collision_model.png
+[1.212s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/Normal_collision_model.png
+[1.219s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/urdf/go2_description.urdf
+[1.227s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/meshes/calf.dae
+[1.234s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/meshes/calf_mirror.dae
+[1.241s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/meshes/foot.dae
+[1.250s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/meshes/hip.dae
+[1.257s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/meshes/thigh.dae
+[1.263s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/meshes/thigh_mirror.dae
+[1.270s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/meshes/trunk.dae
+[1.278s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/ament_index/resource_index/package_run_dependencies/go2_description
+[1.286s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/ament_index/resource_index/parent_prefix_path/go2_description
+[1.293s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/environment/ament_prefix_path.sh
+[1.301s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/environment/ament_prefix_path.dsv
+[1.308s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/environment/path.sh
+[1.315s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/environment/path.dsv
+[1.322s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/local_setup.bash
+[1.329s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/local_setup.sh
+[1.336s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/local_setup.zsh
+[1.344s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/local_setup.dsv
+[1.352s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/package.dsv
+[1.358s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/ament_index/resource_index/packages/go2_description
+[1.364s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/cmake/go2_descriptionConfig.cmake
+[1.374s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/cmake/go2_descriptionConfig-version.cmake
+[1.380s] -- Symlinking: /home/m2m/Unitree_GO2_ws/install/go2_description/share/go2_description/package.xml
+[1.392s] Invoked command in '/home/m2m/Unitree_GO2_ws/build/go2_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/m2m/Unitree_GO2_ws/install/go2_twist_bridge:/home/m2m/Unitree_GO2_ws/install/go2_state:/home/m2m/Unitree_GO2_ws/install/go2_nav:/home/m2m/Unitree_GO2_ws/install/go2_cruising:/home/m2m/Unitree_GO2_ws/install/go2_drive_py:/home/m2m/Unitree_GO2_ws/install/go2_ctrl:/home/m2m/NavRL/install/Goal_publisher:/home/m2m/NavRL/ros2/Goal_publisher/install/Goal_publisher:/opt/ros/humble /usr/bin/cmake --install /home/m2m/Unitree_GO2_ws/build/go2_description

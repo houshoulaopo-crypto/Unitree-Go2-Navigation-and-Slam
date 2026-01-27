@@ -1,0 +1,1 @@
+/home/m2m/Unitree_GO2_ws/build/go2_inter/rosidl_typesupport_introspection_c/go2_inter/srv/detail/cruising__rosidl_typesupport_introspection_c.h

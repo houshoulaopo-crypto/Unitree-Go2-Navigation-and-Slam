@@ -1,0 +1,28 @@
+running egg_info
+writing ../../build/go2_cruising/go2_cruising.egg-info/PKG-INFO
+writing dependency_links to ../../build/go2_cruising/go2_cruising.egg-info/dependency_links.txt
+writing entry points to ../../build/go2_cruising/go2_cruising.egg-info/entry_points.txt
+writing requirements to ../../build/go2_cruising/go2_cruising.egg-info/requires.txt
+writing top-level names to ../../build/go2_cruising/go2_cruising.egg-info/top_level.txt
+reading manifest file '../../build/go2_cruising/go2_cruising.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/go2_cruising/go2_cruising.egg-info/SOURCES.txt'
+running build
+running build_py
+copying go2_cruising/go2_cruising_client.py -> /home/m2m/Unitree_GO2_ws/build/go2_cruising/build/lib/go2_cruising
+running install
+running install_lib
+copying /home/m2m/Unitree_GO2_ws/build/go2_cruising/build/lib/go2_cruising/go2_cruising_client.py -> /home/m2m/Unitree_GO2_ws/install/go2_cruising/lib/python3.10/site-packages/go2_cruising
+byte-compiling /home/m2m/Unitree_GO2_ws/install/go2_cruising/lib/python3.10/site-packages/go2_cruising/go2_cruising_client.py to go2_cruising_client.cpython-310.pyc
+running install_data
+copying launch/go2_cruising.launch.py -> /home/m2m/Unitree_GO2_ws/install/go2_cruising/share/go2_cruising/launch
+copying params/go2_cruising_service.yaml -> /home/m2m/Unitree_GO2_ws/install/go2_cruising/share/go2_cruising/params
+running install_egg_info
+removing '/home/m2m/Unitree_GO2_ws/install/go2_cruising/lib/python3.10/site-packages/go2_cruising-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/go2_cruising/go2_cruising.egg-info to /home/m2m/Unitree_GO2_ws/install/go2_cruising/lib/python3.10/site-packages/go2_cruising-0.0.0-py3.10.egg-info
+running install_scripts
+Installing go2_cruising_client script to /home/m2m/Unitree_GO2_ws/install/go2_cruising/lib/go2_cruising
+Installing go2_cruising_service script to /home/m2m/Unitree_GO2_ws/install/go2_cruising/lib/go2_cruising
+Installing go2_ctrl script to /home/m2m/Unitree_GO2_ws/install/go2_cruising/lib/go2_cruising
+Installing go2_state script to /home/m2m/Unitree_GO2_ws/install/go2_cruising/lib/go2_cruising
+writing list of installed files to '/home/m2m/Unitree_GO2_ws/build/go2_cruising/install.log'

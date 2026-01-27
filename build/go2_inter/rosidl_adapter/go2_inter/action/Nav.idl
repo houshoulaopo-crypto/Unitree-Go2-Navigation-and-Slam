@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from go2_inter/action/Nav.action
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Point.idl"
+
+module go2_inter {
+  module action {
+    struct Nav_Goal {
+      float goal;
+    };
+    struct Nav_Result {
+      geometry_msgs::msg::Point point;
+    };
+    struct Nav_Feedback {
+      float distance;
+    };
+  };
+};

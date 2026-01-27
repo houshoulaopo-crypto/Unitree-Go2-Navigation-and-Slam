@@ -1,0 +1,1 @@
+/home/m2m/Unitree_GO2_ws/build/go2_inter/rosidl_cmake/srv/Cruising_Response.msg
