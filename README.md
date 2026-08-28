@@ -194,6 +194,3 @@ The Go2 must be reachable on the network. Typical setup:
 
 See individual package licenses in `src/*/package.xml`.
 
-## Maintainer
-
-m2m — houshoulaopo@gmail.com
