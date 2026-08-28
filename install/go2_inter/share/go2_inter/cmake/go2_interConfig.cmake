@@ -1,1 +1,0 @@
-/home/m2m/Unitree_GO2_ws/build/go2_inter/ament_cmake_core/go2_interConfig.cmake

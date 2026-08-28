@@ -1,0 +1,7 @@
+/**:
+  ros__parameters:
+    # Goal navigation tuning (reserved for future parameterization)
+    arrival_distance: 0.15
+    heading_threshold_deg: 12.0
+    max_linear_speed: 0.50
+    goal_timeout_sec: 120.0

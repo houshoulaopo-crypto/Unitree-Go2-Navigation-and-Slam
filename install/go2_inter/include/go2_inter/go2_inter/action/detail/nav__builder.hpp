@@ -1,1 +1,0 @@
-/home/m2m/Unitree_GO2_ws/build/go2_inter/rosidl_generator_cpp/go2_inter/action/detail/nav__builder.hpp

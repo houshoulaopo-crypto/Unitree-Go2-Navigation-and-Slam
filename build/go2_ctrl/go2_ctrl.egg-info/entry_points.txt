@@ -1,3 +1,0 @@
-[console_scripts]
-go2_ctrl = go2_ctrl.go2_ctrl:main
-

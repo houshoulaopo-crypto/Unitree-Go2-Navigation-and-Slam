@@ -1,1 +1,0 @@
-/home/m2m/Unitree_GO2_ws/build/go2_inter/rosidl_cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake

@@ -1,3 +1,0 @@
-[console_scripts]
-driver = go2_drive_py.driver:main
-

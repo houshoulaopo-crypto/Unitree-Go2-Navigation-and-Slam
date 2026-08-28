@@ -1,1 +1,0 @@
-/home/m2m/Unitree_GO2_ws/build/go2_inter/rosidl_typesupport_introspection_cpp/go2_inter/action/detail/nav__rosidl_typesupport_introspection_cpp.hpp

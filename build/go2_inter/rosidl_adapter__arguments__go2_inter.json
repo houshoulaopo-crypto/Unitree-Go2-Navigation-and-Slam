@@ -1,7 +1,0 @@
-{
-  "package_name": "go2_inter",
-  "non_idl_tuples": [
-    "/home/m2m/Unitree_GO2_ws/src/go2_inter:srv/Cruising.srv",
-    "/home/m2m/Unitree_GO2_ws/src/go2_inter:action/Nav.action"
-  ]
-}

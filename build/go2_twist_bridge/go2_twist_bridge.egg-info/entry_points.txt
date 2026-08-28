@@ -1,3 +1,0 @@
-[console_scripts]
-twist_bridge = go2_twist_bridge.twist_bridge:main
-

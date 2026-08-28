@@ -1,3 +1,0 @@
-[console_scripts]
-go2_state = go2_state.go2_state:main
-
