@@ -17,8 +17,8 @@ ROS 2 workspace for **Unitree Go2** autonomous navigation. The core package is *
 RViz2 (/goal_pose)
        │
        ▼
-┌──────────────────┐     /odom      ┌─────────────────┐
-│  go2_goal_nav    │◄───────────────│  go2_drive_py   │◄── SportModeState
+┌──────────────────┐     /odom        ┌─────────────────┐
+│  go2_goal_nav    │◄───────────────  │  go2_drive_py   │◄── SportModeState
 │ goal_subscriber  │                  │     driver      │
 └────────┬─────────┘                  └─────────────────┘
          │ /api/sport/request
