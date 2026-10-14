@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/643b7837-a17f-488e-9e34-e54e89fbe85a
+
+
+
+
+
 # Unitree Go2 Navigation and SLAM
 
 ROS 2 workspace for **Unitree Go2** autonomous navigation. The core package is **`go2_goal_nav`**, which lets you click a goal pose in RViz2 and drives the robot there using odometry feedback and the Unitree Sport API.
